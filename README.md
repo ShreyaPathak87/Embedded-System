@@ -1,7 +1,5 @@
-# 🔧 Embedded Systems Projects
-<p align="center">
-  <img src="banner.png" alt="Embedded Systems Banner">
-</p>
+# 🔧 Embedded Systems projects
+![Embedded Systems Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Embedded%20Systems%20Projects%20🔧&fontSize=40&fontColor=ffffff)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)
